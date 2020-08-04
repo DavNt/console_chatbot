@@ -21,6 +21,7 @@ reflections = {
     "me": "you"
 }
 
+# set values for conversing
 chat_pairs = [
 
     [
